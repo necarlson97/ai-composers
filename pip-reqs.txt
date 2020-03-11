@@ -1,0 +1,6 @@
+gpt-2-simple
+flask
+tensorflow==1.15
+music21
+pyypaml
+mido
